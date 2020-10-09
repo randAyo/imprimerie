@@ -9,7 +9,7 @@ $paragraph-font: $head-font/2;
 
 .footer {
     height                  : 70vh;
-    background-image        : url('/deskBg.webp');
+    background-image        : url('https://raw.githubusercontent.com/randAyo/imprimerie/master/public/deskBg.webp');
     background-repeat       : no-repeat;
     background-size         : cover;
     @include flexed($justify: flex-end);
